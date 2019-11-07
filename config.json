@@ -1,0 +1,13 @@
+{
+  "sheetsapi": {
+    "spreadsheetInfo": {
+      "spreadsheetId": "1M7-7F_tau989WaFDC4leQIgt6PXKOslDb5E7kXlNPM8",
+      "sheetName": "Sheet1",
+      "filterField": 2
+    },
+    "oauthInfo": {
+      "credentialFile": "credentials.json",
+      "pickleFile": "token.pickle"
+    }
+  }
+}
